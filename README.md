@@ -1,4 +1,5 @@
 # WeLoveMovies Server
+This is a project that works with backend express API and uses get, put, update, and delete requests to the server for changes. The app is designed to handle changes for when the user browses a movie and selects a chosen movie to be watched.
 
 ## Screenshot
 #### This is an example of the front-end that would be paired with this backend server.
